@@ -1,1 +1,1 @@
-## Implementations of core machine learning algorithms coded from scratch with minimal use of external ML libraries.
+## Implementations of core machine learning algorithms coded from scratch with minimal use of external ML libraries, demonstrating my understanding of the internal mechanisms behind machine learning and my profiency in Python for machine learning. 
